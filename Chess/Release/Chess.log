@@ -1,0 +1,5 @@
+﻿  Chess.cpp
+Chess.cpp(1592): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Chess.cpp(1597): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Chess.cpp(1684): warning C4101: 'm': unreferenced local variable
+Chess.cpp(1685): warning C4101: 'n': unreferenced local variable

@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Chess.cpp
+c:\users\erick\source\repos\chess\chess\chess.cpp(1592): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\erick\source\repos\chess\chess\chess.cpp(1597): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\erick\source\repos\chess\chess\chess.cpp(1614): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\erick\source\repos\chess\chess\chess.cpp(1684): warning C4101: 'm': unreferenced local variable
+c:\users\erick\source\repos\chess\chess\chess.cpp(1685): warning C4101: 'n': unreferenced local variable
+  Chess.vcxproj -> C:\Users\Erick\source\repos\Chess\x64\Debug\Chess.exe
+  Chess.vcxproj -> C:\Users\Erick\source\repos\Chess\x64\Debug\Chess.pdb (Partial PDB)

@@ -1,0 +1,7 @@
+﻿  Chess.cpp
+c:\users\erick\documents\visual studio 2015\projects\chess\chess\chess.cpp(1560): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\erick\documents\visual studio 2015\projects\chess\chess\chess.cpp(1565): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\erick\documents\visual studio 2015\projects\chess\chess\chess.cpp(1652): warning C4101: 'm': unreferenced local variable
+c:\users\erick\documents\visual studio 2015\projects\chess\chess\chess.cpp(1653): warning C4101: 'n': unreferenced local variable
+c:\users\erick\documents\visual studio 2015\projects\chess\chess\chess.cpp(1717): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\Erick\Documents\Visual Studio 2015\Projects\Chess\Debug\Chess.exe for writing
